@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97223663.css",
+    "main.js": "/static/js/main.15616285.js",
+    "static/js/787.25e4c083.chunk.js": "/static/js/787.25e4c083.chunk.js",
+    "static/media/img1banner4.png": "/static/media/img1banner4.8f1d1ecb1b15ea14e589.png",
+    "static/media/img3banner3.png": "/static/media/img3banner3.4a3c9bd7cd45a771416a.png",
+    "static/media/img1banner3.png": "/static/media/img1banner3.67f69b98a6356908178c.png",
+    "static/media/img4banner2.png": "/static/media/img4banner2.ffd27c6204e7fe003721.png",
+    "static/media/img3banner2.png": "/static/media/img3banner2.7b591451b5ad36de2fc1.png",
+    "static/media/img1banner2.png": "/static/media/img1banner2.a119f73ed8c3b6d20f0a.png",
+    "static/media/img2banner2.png": "/static/media/img2banner2.7009678e9ad71d19bbeb.png",
+    "static/media/img2banner3.png": "/static/media/img2banner3.b71dea06073cf7a184e0.png",
+    "static/media/sithome.png": "/static/media/sithome.9e7fb05507fdcadf76d1.png",
+    "static/media/logo.png": "/static/media/logo.85a59d378ac43efda5d2.png",
+    "index.html": "/index.html",
+    "main.97223663.css.map": "/static/css/main.97223663.css.map",
+    "main.15616285.js.map": "/static/js/main.15616285.js.map",
+    "787.25e4c083.chunk.js.map": "/static/js/787.25e4c083.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97223663.css",
+    "static/js/main.15616285.js"
+  ]
+}
